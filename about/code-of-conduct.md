@@ -1,3 +1,9 @@
+---
+tile: Contributor Covenant Code of Conduct
+layout: default
+nav_exclude: true
+---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
