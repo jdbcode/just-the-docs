@@ -1,3 +1,9 @@
+---
+tile: Just the Docs License
+layout: default
+nav_exclude: true
+---
+
 The MIT License (MIT)
 
 Copyright (c) 2016 Patrick Marsceill
