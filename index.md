@@ -1,5 +1,5 @@
 ---
-title: GEE Dev Docs
+title: Welcome
 ---
 
 <img src='https://gee-community.github.io/GEE-Dev-Docs/assets/img/gee-dev-docs-logo.svg'>
