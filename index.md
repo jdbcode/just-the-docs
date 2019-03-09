@@ -6,7 +6,8 @@ title: Welcome
 
 # Welcome
 
-This is GEE Dev Docs, a collaborative platform for accessing and submitting Google Earth Engine tutorials.
+This is GEE Dev Docs, a collaborative platform for accessing and submitting [Google Earth Engine](https://earthengine.google.com/) tutorials
+and other community-contributed content.
 
 **Currently this is a mock up to test the "Just the Docs" platform.**
 
