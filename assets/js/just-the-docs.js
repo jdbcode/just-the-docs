@@ -35,8 +35,9 @@ function initSearch() {
   var index = lunr(function () {
     this.ref('id');
     this.field('title', { boost: 20 });
-    this.field('content', { boost: 10 });
-    this.field('url');
+    this.field('tags', { boost: 20 });
+    //this.field('content', { boost: 10 });
+    //this.field('url');
   });
 
   // Get the generated search_data.json file so lunr.js can search it locally.
@@ -70,7 +71,8 @@ function initSearch() {
           id: data[i].id,
           title: data[i].title,
           content: data[i].content,
-          url: data[i].url
+          url: data[i].url,
+          tags: data[i].tags 
         });
       }
       searchResults(data);
